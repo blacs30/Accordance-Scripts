@@ -1,3 +1,4 @@
+-- Apple Script Source Code - Open in Script Edtor on a Mac
 log "  --- Starting on " & ((current date) as string) & " --- "
 
 (* initializing variable "inputFolder" for the input folder, 
