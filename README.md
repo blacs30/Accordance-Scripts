@@ -19,6 +19,6 @@ Therefore I recommend to use HTMLs to import into Accordance.
 A simple way, e.g. using Calibre is to Convert all wanted books into TXT with UTF8.
 Grab all the TXT files, but them into one folder and then use the terminal to convert them all at once into HTMLs:
 
-textutil -convert html ~/path/to/files/*
+```textutil -convert html ~/path/to/files/*```
 
 This converts all the files into html files. It creates new files and adds the extension .html.
